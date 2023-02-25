@@ -1,4 +1,4 @@
-# <Country> vat format validator
+# Croatia vat format validator
 
 ![Code Coverage Badge](./badge.svg)
 
