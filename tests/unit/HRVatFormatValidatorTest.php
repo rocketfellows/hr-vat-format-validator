@@ -118,6 +118,10 @@ class HRVatFormatValidatorTest extends TestCase
                 'vatNumber' => 'hr99999999999',
                 'isValid' => false,
             ],
+            [
+                'vatNumber' => '',
+                'isValid' => false,
+            ],
         ];
     }
 }
